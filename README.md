@@ -4,8 +4,7 @@
 ## Descrição
 
 A Product API é uma aplicação Spring Boot que fornece uma API RESTful para gerenciar produtos. 
-A API permite criar, listar, atualizar e deletar produtos,
-além de fornecer links HATEOAS para navegação entre os recursos.
+A API permite criar, listar, atualizar e deletar produtos, além de fornecer links HATEOAS para navegação entre os recursos.
 
 ## Tecnologias Utilizadas
 
